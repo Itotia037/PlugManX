@@ -15,7 +15,7 @@ softdepend:
   - PlugMan
 commands:
   plugman:
-    aliases: [ plm ]
+    aliases: [ plmx ]
     description: Manage plugins.
     permission: plugman.help
     usage: /plugman (help|dump)
